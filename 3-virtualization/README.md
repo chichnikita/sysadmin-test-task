@@ -13,7 +13,9 @@
 ![](../imagestest/51.png)
 ![](../imagestest/52.png)
 ![](../imagestest/53.png)
+
 И выполняем установку образа :
+
 ![](../imagestest/54.png)
 ![](../imagestest/55.png)
 ![](../imagestest/56.png)

@@ -28,6 +28,7 @@ iface enp0s3 inet static
 ![](../imagestest/6.png)
 
 Проверяем, какой сетевой сервис используется:
+
 ![](../imagestest/7.png)
 
 В данном случае сеть управляется через NetworkManager.

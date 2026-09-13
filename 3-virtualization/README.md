@@ -1,19 +1,19 @@
 # Виртуализация — Proxmox VE
 
 У меня уже имеется сервер с Proxmox поэтому показываю как на нем создать виртуальную машину
-![[41.png]]
-![[42.png]]
-![[43.png]]
-![[44.png]]
-![[45.png]]
-''![[46.png]]
-![[47.png]]
-![[49.png]]
-![[50.png]]
-![[51.png]]
-![[52.png]]
-![[53.png]]
+![](../imagestest/41.png)
+![](../imagestest/42.png)
+![](../imagestest/43.png)
+![](../imagestest/44.png)
+![](../imagestest/45.png)
+![](../imagestest/46.png)
+![](../imagestest/47.png)
+![](../imagestest/49.png)
+![](../imagestest/50.png)
+![](../imagestest/51.png)
+![](../imagestest/52.png)
+![](../imagestest/53.png)
 И выполняем установку образа :
-![[54.png]]
-![[55.png]]
-![[56.png]]
+![](../imagestest/54.png)
+![](../imagestest/55.png)
+![](../imagestest/56.png)
